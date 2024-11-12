@@ -1,6 +1,6 @@
 data
 fulltexts
-models
+#models
 .ipynb_checkpoints/
 __pycache__
 token.txt
