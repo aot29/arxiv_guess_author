@@ -10,6 +10,7 @@ pip install -r requirements.txt
 
 ```
 conda activate arxiv_exp
+cd workspace/arxiv_guess_author/
 jupyter lab
 ```
 
@@ -17,12 +18,12 @@ jupyter lab
 ```
 python -m venv arxiv_exp
 source arxiv_exp/bin/activate
-cd workspace/arxiv_exploratory/
+cd workspace/arxiv_guess_author/
 pip install -r requirements.txt
 ```
 
 ```
 source arxiv_exp/bin/activate
-cd workspace/arxiv_exploratory/
+cd workspace/arxiv_guess_author/
 jupyter lab
 ```
