@@ -1,5 +1,7 @@
-data
-fulltexts
+#data
+data/arxiv_metadata.csv
+data/arxiv-metadata-oai-snapshot.json
+#fulltexts
 #models
 .ipynb_checkpoints/
 __pycache__
