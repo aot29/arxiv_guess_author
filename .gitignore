@@ -1,5 +1,6 @@
 #data
-data/arxiv_metadata.csv
+data/arxiv_metadata.csv.zip
+data/arxiv_abstracts.csv.zip
 data/arxiv-metadata-oai-snapshot.json
 #fulltexts
 #models
