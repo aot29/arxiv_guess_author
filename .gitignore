@@ -2,6 +2,7 @@
 data/arxiv_metadata.csv.zip
 data/arxiv_abstracts.csv.zip
 data/arxiv-metadata-oai-snapshot.json
+data/arxiv_metadata.csv
 #fulltexts
 #models
 .ipynb_checkpoints/
